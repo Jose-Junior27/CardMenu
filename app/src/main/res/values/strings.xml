@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Card Menu</string>
+    <string name="label_businesscards">Menu de Pedidos</string>
+    <string name="label_total">Total</string>
+</resources>
